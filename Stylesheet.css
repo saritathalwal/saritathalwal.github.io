@@ -1,0 +1,53 @@
+* {
+    margin: 0px;
+    padding: 0PX;
+    box-sizing: border-box;
+}
+
+.image img {
+    margin: 50px;
+    width: 100%;
+    height: 500px;
+}
+ .join a {
+    margin: 50px;
+    font-size: 25px;
+} 
+
+h1 {
+    text-align: center;
+    margin: 10px;
+    color: deeppink;
+}
+ h2 {
+     text-align: center;
+     font-style: italic;
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+ul li {
+    margin-left: 25px;
+    font-size: 20px;
+}
+
+.head {
+    margin-left: 25px;
+    margin-bottom: 10px;
+    font-size: 25px;
+    margin-top: 10px;
+    color: blue;
+    text-align: center;
+}
+
+.web {
+    text-align: center;
+    font-size: 25px;
+}
+
+.main a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 18px;
+}
